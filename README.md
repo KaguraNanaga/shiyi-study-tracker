@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h1 align="center">拾遗 · shiyi</h1>
+<h1 align="center">拾遗 · 通用考试备考追踪</h1>
 
 <p align="center">
   通用考试备考追踪 OpenClaw Skill<br>
