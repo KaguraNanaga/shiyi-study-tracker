@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaguraNanaga/shiyi/main/assets/crane_shiyi.png">
-    <img src="https://raw.githubusercontent.com/KaguraNanaga/shiyi/main/assets/crane_shiyi.png" alt="拾遗" width="160">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaguraNanaga/shiyi-study-tracker/main/assets/crane_shiyi.png">
+    <img src="https://raw.githubusercontent.com/KaguraNanaga/shiyi-study-tracker/main/assets/crane_shiyi.png" alt="拾遗" width="160">
   </picture>
 </p>
 
@@ -72,7 +72,7 @@
 
 ```bash
 cd ~/.openclaw/skills
-git clone https://github.com/KaguraNanaga/shiyi
+git clone https://github.com/KaguraNanaga/shiyi-study-tracker
 
 cd shiyi
 npm install
